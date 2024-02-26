@@ -1,0 +1,3 @@
+const INC_COUNT="INC"
+const DEC_COUNT="DEC"
+export {INC_COUNT,DEC_COUNT}
